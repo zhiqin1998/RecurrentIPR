@@ -1,7 +1,7 @@
 # Recurrent Neural Network IPR Protection
 
 ### Official pytorch implementation of the paper: 
-#### An Embarrassingly Simple Approach for Intellectual Property Rights Protection on Recurrent Neural Networks
+#### - An Embarrassingly Simple Approach for Intellectual Property Rights Protection on Recurrent Neural Networks
 
 [AACL IJCNLP 2022]()
 
@@ -79,3 +79,5 @@ Suggestions and opinions on this work (both positive and negative) are greatly w
 
 ## License and Copyright
 The project is open source under BSD-3 license (see the ``` LICENSE ``` file).
+
+&#169;2022 Universiti Malaya.
