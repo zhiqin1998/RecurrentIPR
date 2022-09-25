@@ -1,0 +1,5 @@
+{
+    "signature": "private signature should goes here",
+    "sign_loss_alpha": 1,
+    "sign_std_alpha": 0.1
+}

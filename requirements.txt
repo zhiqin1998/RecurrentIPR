@@ -1,0 +1,12 @@
+torch==1.8.1
+fasttext==0.9.2
+numpy==1.19.2
+pandas==1.2.0
+torchtext==0.9.1
+torchvision==0.2.2
+scikit-learn==0.23.2
+nltk==3.5
+seaborn==0.11.1
+spacy==2.0.12
+matplotlib==3.3.2
+Pillow==8.1.0
