@@ -1,9 +1,7 @@
 # Recurrent Neural Network IPR Protection
 
-[Project]() | [ArXiv]() | [PDF]()
-
 ### Official pytorch implementation of the paper: 
-#### - An Embarrassingly Simple Approach for Intellectual Property Rights Protection on Recurrent Neural Networks
+#### An Embarrassingly Simple Approach for Intellectual Property Rights Protection on Recurrent Neural Networks
 
 [AACL IJCNLP 2022]()
 
