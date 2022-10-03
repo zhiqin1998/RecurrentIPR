@@ -69,7 +69,11 @@ Set json value `signature` to the desired signature string. Note that the signat
 ## Citation
 If you find this work useful for your research, please cite
 ```
-@article{
+@inproceedings{RNNIPR,
+  title={An Embarrassingly Simple Approach for Intellectual Property Rights Protection on Recurrent Neural Networks},
+  author={Tan, Zhi Qin and Wong, Hao Shan and Chan, Chee Seng},
+  booktitle={Proceedings of 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL/IJCNLP)},
+  year={2022},
 }
 ```
 
