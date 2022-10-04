@@ -10,7 +10,7 @@ AACL IJCNLP 2022 | <a href="https://arxiv.org/abs/2210.00743">PDF</a>
 Capitalise on deep learning models, offering Natural Language Processing (NLP) solutions as a part of the Machine Learning as a Service (MLaaS) has generated handsome revenues. At the same time, it is known that the creation of these lucrative deep models is non-trivial. Therefore, protecting these inventions’ intellectual property rights (IPR) from being abused, stolen and plagiarized is vital. This paper proposes a practical approach for the IPR protection on recurrent neural networks (RNN) without all the bells and whistles of existing IPR solutions. Particularly, we introduce the Gatekeeper concept that resembles the recurrent nature in RNN architecture to embed keys. Also, we design the model training scheme in a way such that the protected RNN model will retain its original performance iff a genuine key is presented. Extensive experiments showed that our protection scheme is robust and effective against ambiguity and removal attacks in both white-box and blackbox protection schemes on different RNN variants.
 </p>
 
-<p align="center"><img src="./docs/overall.png" width="50%"></p>
+<p align="center"><img src="./docs/overall.png" width="55%"></p>
 <p align="center">Figure 1: Overview of our proposed protection scheme in white/black box settings.</p>
 
 ## Dataset
