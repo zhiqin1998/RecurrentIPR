@@ -1,9 +1,16 @@
 # Recurrent Neural Network IPR Protection
 
+AACL IJCNLP 2022 | <a href="https://arxiv.org/abs/2210.00743">PDF</a>
+
 ### Official pytorch implementation of the paper: 
 #### - An Embarrassingly Simple Approach for Intellectual Property Rights Protection on Recurrent Neural Networks
 
-AACL IJCNLP 2022 | <a href="https://arxiv.org/abs/2210.00743">PDF</a>
+Released 26 September 2022
+
+### Others similar work
+1. Our framework on GAN IP protection (CVPR, 2021) is available at [Project Repo](https://github.com/zhiqin1998/RecurrentIPR).
+2. Our framework on DNN IP protection (TPAMI, 2022) is available at [Project Repo](https://github.com/kamwoh/DeepIPR).
+3. Our framework on Multi-modal IP protection (PR, 2022) is available at [Project Repo](https://github.com/jianhanlim/ipr-imagecaptioning).
 
 ## Description
 <p align="justify">
