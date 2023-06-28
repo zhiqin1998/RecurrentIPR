@@ -81,6 +81,7 @@ If you find this work useful for your research, please cite
   title={An Embarrassingly Simple Approach for Intellectual Property Rights Protection on Recurrent Neural Networks},
   author={Tan, Zhi Qin and Wong, Hao Shan and Chan, Chee Seng},
   booktitle={Proceedings of 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL/IJCNLP)},
+  pages={93--105},
   year={2022},
 }
 ```
